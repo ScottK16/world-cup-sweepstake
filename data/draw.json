@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "name": "Scott",
+      "teams": ["Curacao", "Scotland", "Qatar", "Austria", "Senegal", "Portugal"]
+    },
+    {
+      "name": "Oisin",
+      "teams": ["Cape Verde", "Iraq", "Sweden", "Egypt", "Colombia", "England"]
+    },
+    {
+      "name": "Susannah",
+      "teams": ["Jordan", "Bosnia and Herzegovina", "Tunisia", "Japan", "Croatia", "Morocco"]
+    },
+    {
+      "name": "Cameron",
+      "teams": ["Ghana", "Saudi Arabia", "Canada", "Iran", "Uruguay", "France"]
+    },
+    {
+      "name": "Mary",
+      "teams": ["New Zealand", "Norway", "Ivory Coast", "Ecuador", "Mexico", "Brazil"]
+    },
+    {
+      "name": "Anna",
+      "teams": ["Haiti", "South Africa", "Algeria", "South Korea", "United States", "Spain"]
+    },
+    {
+      "name": "John",
+      "teams": ["Uzbekistan", "Panama", "Turkey", "Switzerland", "Germany", "Argentina"]
+    },
+    {
+      "name": "Shirley",
+      "teams": ["Paraguay", "DR Congo", "Czechia", "Australia", "Belgium", "Netherlands"]
+    }
+  ]
+}
